@@ -17,7 +17,5 @@
 ### 📫 Как со мной связаться:
 - **Telegram:** [@mumunich]
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ✍️ QA Philosophy
+> **"Great automation starts with a solid manual mindset."**
